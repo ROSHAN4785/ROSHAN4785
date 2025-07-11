@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @ROSHAN4785
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Web Development
-- 📫 How to reach me : roshanakthar409@gmail.com
-<!---
-ROSHAN4785/ROSHAN4785 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi there! I’m Roshan Akthar, a BTech graduate in Artificial Intelligence & Data Science who loves turning code and data into real-world results.
+
+🚀 I build smart web solutions, automate workflows with Python, and help websites rank better through ethical SEO.
+
+🛠️ I’m passionate about blending AI with web development to create projects that are clean, functional, and growth-focused.
+
+✨ Let’s connect, learn, and build better tech for everyone!
+
+<a href = "www.linkedin.com/in/roshan-akthar-724574219">🌐 LinkedIn</a> | 📧 roshanakthar409@gmail.com
